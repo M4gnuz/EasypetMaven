@@ -1,0 +1,158 @@
+
+ /*-----------PARETE FIXA INICIO-----------*/
+
+#tudo {
+  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+   
+}
+
+.card-header {
+    background-color: #2646a7!important;
+    border-color: #071f69!important;
+}
+
+
+#fotopet {
+    float: left;
+}
+
+#inputqtd{
+    float: left;
+}
+
+.card-body {
+    width: 450px;
+    padding-top: 15px;
+    text-align: left;
+}
+
+#fotoprod{
+    float: left;
+}
+
+#logocentral{
+    padding-top: 2%;
+}
+
+.principal {
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+    font-weight: bold;
+    border-radius: 5px;
+    opacity: 0.7;
+    color: black;
+    float: left;
+     margin-bottom:15px;
+}
+.principal2 {
+    /*margin-left: 100px;*/
+    /*margin-top: 70px;
+padding: 5px 5px 5px 10px;*/
+    padding-left: 8%;
+    font-weight: bold;
+    /* background-color: #EDDEA4; */
+    /* border: 1px solid#EDDEA4; */
+    border-radius: 5px;
+    opacity: 0.7;
+    color: black;
+    float: left;
+    height: 100px;
+    color: darkblue;
+    margin-top: 3%  
+}
+
+.btn-success {
+    background-color: #2646a7!important;
+    border-color: #071f69!important;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #030306!important;
+    border-color: #1e7e34;
+}
+
+ /*-----------PARETE FIXA FIM-----------*/
+ 
+ 
+ h1{
+    text-align: center;
+}li {
+    list-style: none;
+    margin-left: 0%;
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+#logocentral{
+    padding-top: 2%;
+}
+
+.filtro-meus-produto h2{
+    width:50%;
+    display:block;
+    float: left; 
+}
+
+#tabela_busca_meus_produtos i{
+    font-size: 25px;
+}
+
+.fa-trash-alt:hover{
+    color:#e60f0f;
+}
+
+.fa-edit:hover{
+    color:#c1c12a;;
+}
+
+.table .thead-dark th {
+    color: #fff;
+  background-color: #2646a7!important;
+     border-color: #071f69!important;
+}
+
+h5{
+    color: darkblue;
+}
+
+.linha-vertical {
+ border-left: 1px solid grey;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+ box-sizing: border-box;
+ margin-left: 10%;
+}
+.box {
+
+
+ height: 250px;/*Altura da linha*/
+}
+.btn-success{
+  
+    margin-left: 1%;
+}
+
+
+.teste{
+    margin-left: 20%;
+}
+
+td{
+    border-bottom: 1px solid grey;
+    border-top: 1px solid grey;
+    
+}
+tbody{
+    background-color: white;
+     border-color: #071f69!important;
+     border-radius: 2px;
+     color: black!important;
+     
+}
+

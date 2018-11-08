@@ -1,0 +1,209 @@
+
+#cadAcessorio {
+    margin-left: 13%; 
+}
+
+#cadAlimento,
+#cadAcessorio{
+    text-align:center;
+}
+
+#cadAlimento span i,
+#cadAcessorio span i{
+    font-size: 200px;
+    padding: 5px;
+}
+
+#cadAlimento label,
+#cadAcessorio label
+{
+    font-size: 18px;
+    color: darkblue;
+    display: block;
+}
+
+
+h1{
+    color: darkblue;
+    text-align: center;
+}
+
+.cadastro {
+    color: darkblue;
+    text-align: center;
+    padding-top: 35px;
+    padding-bottom: 20px;
+}
+
+#tudo{
+    margin-left: 20%;
+    margin-top: 8%;
+  
+}
+
+
+#complemento {
+    margin-left: 16%;
+}
+
+#btn {
+    border-radius: 40px;
+}
+
+.btn2 {
+    margin-left: 75%;
+    margin-bottom: 10px;
+}
+
+#reset {
+    margin-left: 20px;
+}
+
+.form-group {
+    margin-bottom: 2px;
+}
+
+body {
+    background: url(../ResourcesIm/fundo.jpg) center center no-repeat fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.principal {            
+    font-weight: bold;
+    background-color: #EDDEA4;
+    border: 1px solid #EDDEA4;
+    border-radius: 15%;
+    opacity: 0.7;
+    float: left;
+    margin-bottom: 100px;
+}
+
+
+i:hover{
+     color: #fff;
+}
+
+.logo{
+    text-align: center;
+    margin: 0 auto; 
+    width: 279px;
+
+}
+
+.logo h3{
+    width: 0px;
+    display: block;
+    float: left;
+}
+
+.logo img{
+    width: 90px;
+}
+nav {
+    background: rgb(243, 223, 143);
+    color: darkblue;
+    opacity: 0.5;
+}
+
+
+.btn-success {
+    background-color: darkblue!important;
+    border-color: #020238!important;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #030306!important;
+    border-color: #1e7e34;
+}
+
+
+
+nav .logo {
+    text-align: center;
+    margin: 0 auto;
+    width: 279px;
+    margin-left: 44%;
+}
+
+nav .logo h3 {
+    width: 0px;
+    display: block;
+    float: left;
+}
+
+nav .logo img {
+    width: 90px;
+    margin-right: -8%;
+}
+
+nav {
+    background: rgb(243, 223, 143);
+    color: darkblue;
+    opacity: 0.5;
+}
+
+#nav-principal .btn:not(:disabled):not(.disabled) {
+    color: white!important;
+    text-align: center;
+}
+
+footer{
+    clear: both;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    background: rgb(243, 223, 143);
+    color: darkblue;
+    opacity: 0.8;
+    width: 100%;
+}
+
+
+
+footer #rod2{
+    margin-left: 25%;
+}
+
+footer span{
+    margin-left: 30%;
+}
+
+footer #rod2{
+    margin-left: 18%;
+}
+
+
+
+@media only screen and (max-width: 615px) {
+    #login {
+        margin-left: 0px;
+    }
+    .btn2 {
+        margin-left: 74%;
+    } 
+    
+        #cadAcessorio {
+        margin-left: 0px; 
+    }
+}
+
+@media only screen and (max-width: 769px) {
+
+    .btn2 {
+        margin-left: 60%;
+    } 
+    
+    #tudo {
+        margin-left: 0px;
+    }
+}    
+
+@media only screen and (max-width: 971px) {
+    #cadAlimento span i,
+    #cadAcessorio span i{
+        font-size: 150px;
+    }
+} 

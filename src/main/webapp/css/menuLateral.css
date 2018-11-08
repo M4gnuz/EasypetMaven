@@ -1,0 +1,31 @@
+.btn-link {
+    color:white!important;
+
+}
+
+.card-body li a{
+    color:darkblue;
+    text-decoration: none;
+}
+
+
+#caixa1 .principal{
+    margin-bottom: 200px;
+}
+
+.card-header {
+    background-color: #2646a7!important;
+    border-color: #071f69!important;
+}
+
+#accordion .agendamentoLink a {
+    color: white!important;
+}
+
+@media only screen and (max-width: 809px) {
+
+    #caixa1 .principal {
+        margin-bottom: 0px; 
+    }
+
+}

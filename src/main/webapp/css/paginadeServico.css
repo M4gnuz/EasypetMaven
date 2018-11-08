@@ -1,0 +1,89 @@
+
+h1{
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    margin-left: 0%;
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+textarea.form-control {
+    height: auto;
+    margin-bottom: 2%;
+}
+
+#tudo {
+    background-color: rgba(226, 226, 226, 0.23);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#boxs{
+    margin-bottom: 20px;
+}
+
+#informacoes, 
+#agendamento {
+    background-color: white;
+    border-radius: 8px;
+    margin: 0 auto;
+}
+
+#informacoes h4,
+#agendamento h4
+{
+    text-align: center;
+    color: darkblue;
+    margin-bottom: 25px;
+    margin-top: 10px;   
+}
+
+#informacoes p{
+    line-height: 17px;
+    color: darkblue;
+    font-weight: 500;
+}
+
+#informacoes label {
+    color: black;
+    font-weight: 400;
+    /*  line-height: 20px;*/
+}
+
+#informacoes #descricao {
+    color: black;
+    font-weight: 400;
+    /*line-height: 15px;*/
+}
+
+#agendamento label{
+    /*line-height: 10px;*/
+    color: darkblue;
+    font-weight: 500;
+}
+
+#agendamento select,
+#agendamento input{
+    margin-bottom: 15px;
+}
+
+.btn-cancel{
+    margin-right: 15px;
+}
+
+
+@media only screen and (max-width: 809px) {
+
+    #boxs{
+        padding: 30px;
+    }
+
+
+}
+
+

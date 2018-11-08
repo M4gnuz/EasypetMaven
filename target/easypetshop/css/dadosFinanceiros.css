@@ -1,0 +1,59 @@
+
+h1{
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    margin-left: 0%;
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+textarea.form-control {
+    height: auto;
+    margin-bottom: 2%;
+}
+
+#tudo {
+    background-color: rgba(226, 226, 226, 0.23);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+
+#dadosFinanceiros .btn-success{
+    color: white!important;
+    background-color: #85cc16cc!important;
+    border-color: #345402cc!important;
+}
+
+
+.principal {    
+    font-weight: bold;  
+    border-radius: 5px;  
+    color: black;
+    float: left;
+    margin-bottom: 45px;
+    margin-left: 50px;
+    background-color: #2646a79e!important;
+    border-color: #cf9bcc!important;
+    opacity: 0.7;
+    margin: 0 auto;
+    
+}
+
+#dadosFinanceiros h3{
+    text-align: center;
+}
+
+@media only screen and (max-width: 809px) {
+    #dadosFinanceiros{
+        margin-left: 5%;
+    }
+    
+}
+

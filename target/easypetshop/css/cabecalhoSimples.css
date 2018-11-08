@@ -1,0 +1,33 @@
+
+
+
+
+.logo{
+    text-align: center;
+    margin: 0 auto; 
+    width: 279px;
+
+}
+
+.logo h3{
+    width: 0px;
+    display: block;
+    float: left;
+}
+
+.logo img{
+    width: 90px;
+}
+nav {
+    background: #85cc16cc;
+    color: darkblue;
+    opacity: 0.8;
+    z-index: 2;
+}
+
+
+.alinhamento{
+    padding-right: 0px!important;
+}
+
+

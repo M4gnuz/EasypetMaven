@@ -1,0 +1,66 @@
+#texto{
+     font-weight: bold;
+    background-color: rgb(226, 226, 226);
+    border-radius: 5px;
+    opacity: 0.7;
+    text-align: center;
+    color: white;
+    margin-bottom: 8%;
+    padding: 20px;
+    width: 45%;
+    margin-top: 15%;
+    margin-left: 30%;
+ 
+}
+
+.titulo{
+    text-align: center;
+    color: darkblue;
+    margin-top: 6%;
+    margin-bottom: 20px;
+     
+}
+#tudo{
+  background: url(../ResourcesIm/banho.png) center center no-repeat fixed;
+     -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+ 
+}
+.img-fluid{
+    border-radius: 5%;
+}
+#termos{
+    
+    margin-bottom: 3%;
+
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #030306!important;
+    border-color: #1e7e34;
+}
+.btn-success{
+     background-color: #2646a7!important;
+    border-color: #071f69!important;
+    margin-bottom: 100px;
+}
+
+#Pagamentotitulo label{
+    color: darkblue;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+.custom-control-label{
+    color:black;
+    padding-bottom: 5%;
+}
+
+h3{
+        padding-left: 13%;
+    color: darkblue!important;
+    padding-top: 10px;
+}

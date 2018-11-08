@@ -1,0 +1,87 @@
+.btn-toolbar{
+    margin-right: 80px;
+    
+}
+
+#menuFornecedor{
+    margin-left: 15px;    
+}
+
+#logocentral{
+    padding-top: 2%;
+    padding-left: 2%;
+}
+
+.logo {
+    text-align: center;
+    margin: 0 auto;
+    width: 279px;
+}
+
+.logo h3 {
+    width: 0px;
+    display: block;
+    float: left;
+}
+
+.logo img {
+    width: 90px;
+}
+
+
+
+nav {
+    background: #85cc16cc;
+    color: darkblue;
+    opacity: 0.8;
+    z-index: 2;
+}   
+
+#nav-principal .btn:not(:disabled):not(.disabled) {
+    color: white!important;
+    text-align: center;
+    
+}
+
+.btn-success {
+    background-color:  #2646a7!important;
+    border-color: #071f69!important;
+}
+
+.btn-success:hover {
+    color: #fff;
+    background-color: #030306!important;
+    border-color: #1e7e34;
+}
+#pesquisa{
+    margin-top: 8%;
+    margin-left: 28%;
+}
+#homeT{
+    margin-top: 10%;
+   margin-left: 20%;
+   color:#020238;
+}
+span{
+    /*margin-left: 13%;*/
+    color: #020238;;
+}
+
+#btn-sairFornecedor{
+    margin-left: 20px;
+}
+
+@media only screen and (max-width: 809px) {
+    .logo {
+        margin-bottom: 10px;
+    }
+
+    #cabecalhoMenu button{
+        font-size: 10px;
+    }
+    
+    #btn_carrinho {
+        margin-left: 0px;
+    }
+    
+}

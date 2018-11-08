@@ -1,0 +1,143 @@
+#paginaP{
+    margin-top: 5%;
+    margin-bottom:  5%;
+    text-align: center;
+    color: darkblue;
+}
+#valorProduto{
+    margin-top: 20%;
+    text-align: center;
+    color: darkblue;
+    margin-bottom: 15%;
+}
+.btnF{
+    margin-left: 17%;
+
+}
+.btn-primary{
+    background-color: #85cc16cc!important;
+    border-color: #538406cc!important;
+    color: white;
+}
+.btn-primary:hover{
+    background-color: darkblue!important;
+    border-color: darkblue!important;
+    color: white;
+}
+
+
+.btn-outline-dark{
+    margin-top: 10%;
+    border-color: darkblue!important;
+    color: darkblue!important;
+    color: white!important;
+    background: darkblue!important;
+}
+.btn-outline-dark:hover{
+    background-color: #85cc16cc!important;
+    border-color: darkblue!important;
+    color: white!important;
+
+}
+.container{
+    margin-top: 5%;
+}
+
+.imagemProd{
+    width: 450px;
+    height: 500px;
+}
+
+.nomePet{
+    margin-left: 32%;
+}
+.estrelas{
+    margin-left: 25%;
+}
+
+.apagada {
+    background-image: url('http://www.biblecast.net.br/resources/estrela-prata.png');
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+
+.destaque {
+    background-image: url(../ResourcesIm/estrela.png);
+    width: 32px;
+    height: 32px;
+    cursor: pointer;
+}
+
+#txtcaracteristica{
+    background-color: #85cc16cc;
+    height: 200px;
+
+    opacity: 0.7;
+    border-radius: 5%;
+    text-align: center;
+    padding-top: 3%;
+    color: darkblue;
+    margin-bottom: 8%;
+    overflow: auto;
+}
+
+
+.descricao{
+
+    height: 500px!important;   
+}
+#geral{
+    background-color: #2646a79e;
+    opacity: 0.8;
+    overflow: auto;
+    font-weight: bold;
+    border-radius: 5px;
+    padding-top: 5px;
+
+}
+.dsc{
+    margin-bottom: 2%;
+}
+
+#qtdParcelas li {
+    list-style: none;
+}
+
+.formapagamentoDiv label{
+    color: #999;
+    font-weight: 500;
+}
+
+.formapagamentoDiv h3{
+    font-size: 19px;
+    margin-top: 13px;       
+}
+
+
+@media only screen and (max-width: 809px) {
+    .imagemProd {
+        width: 330PX;
+        height: 370px;
+    }
+
+    .nomePet {
+        margin-left: 16%;
+    }
+
+    .estrelas {
+        margin-left: 19%;
+    }
+
+    .estrelas {
+        font-size: 20px;
+    }
+
+    .adicionarCar{
+        margin-left: 16%;
+        margin-top: 10px;
+    }
+
+
+}
+

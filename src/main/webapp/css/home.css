@@ -1,0 +1,93 @@
+
+
+#tudo{
+    /* background-color: rgb(255, 251, 236);*/
+    background-color: rgba(226, 226, 226, 0.23);
+    opacity: 0.8;
+    z-index:1;
+
+}
+.teste{
+    height: 380px;
+
+}
+#texto{
+    margin-top: 20px;
+    color: #020238;
+    display: inline;
+    margin-bottom: 7%;
+    margin-left: 3%;
+}
+
+/* imagnes corpo */
+
+
+#cx1{
+    margin-top: 6%;
+    margin-bottom: 4%;
+}
+
+#cx2{
+    margin-bottom: 8%;
+}
+
+#letra{
+    color: whitesmoke;
+}
+
+/*RODAPE*/
+footer{
+    clear: both;
+
+    padding-bottom: 25px;
+    padding-left: 25px;
+    background: rgb(243, 223, 143);
+    color: darkblue;
+    opacity: 0.8;
+    width: 100%;
+    border: 1px solid rgb(243, 223, 143);
+
+}
+span{
+    margin-left: 30%;
+}
+
+footer{
+    clear: both;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    background: rgb(243, 223, 143);
+    color: darkblue;
+    opacity: 0.8;
+    width: 100%;
+
+}
+span{
+    margin-left: 30%;
+}
+#rod2{
+    margin-left: 18%;
+}
+
+
+.home h1{
+    font-size: 25px;
+}
+
+#homeT{
+    margin-top: 20px;
+    margin-left: 20%;
+    color:#020238;margin-top: 20px;
+    margin-left: 10%;
+    color: darkblue;
+    font-size: 19px;
+}
+
+#pesquisa{
+    margin: 0 auto;
+}
+
+#homeT span{
+    color: darkblue;
+    font-size: 19px;
+}

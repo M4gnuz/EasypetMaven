@@ -1,0 +1,92 @@
+#tudo{
+    background-color: rgba(226, 226, 226, 0.23);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#easypet{
+    color: darkblue;
+    font-size: 16pt;
+    margin-left: 20%;
+}
+#tituloagendamentos{
+    color: darkblue;
+    font-size: 20pt;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+#img{
+    width: 39%;
+    margin-left: 15%;
+    margin-top: 7%;
+}
+#overflow{
+    overflow: hidden;
+    width: 300px;
+    margin-left: -11%;
+}
+#menulateraltodo{
+    margin-left: -24%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+#menulateral{
+    background-color: #cf9bcc!important;
+    border: #cf9bcc!important;
+    cursor: pointer;
+}
+#menulateral:hover{
+    background-color: white !important;
+    color: #cf9bcc!important;
+}
+a:hover{
+    color: #cf9bcc !important;
+}
+#cabecalhoAgendamentos{
+    background-color: #cf9bcc!important;
+    width: 75%;
+    height: 1%;
+    margin-left: 19%;
+    margin-top: -37%;
+}
+#checkbox{
+    margin-left: 2%;
+    margin-top: 15px;
+}
+#itemCabecalho{
+    margin-left: 60px;
+    color: white;
+}
+#agendamento1{
+    background-color: white;
+    width: 75%;
+    height: 1%;
+    margin-left: 19%;
+    margin-top: -34%;
+}
+#agendamento2{
+    background-color: white;
+    width: 75%;
+    height: 1%;
+    margin-left: 19%;
+    margin-top: -31%;
+}
+#agendamento3{
+    background-color: white;
+    width: 75%;
+    height: 1%;    
+    margin-left: 19%;
+    margin-top: -28%;
+}
+#agendamento4{
+    background-color: white;
+    width: 75%;
+    height: 1%;    
+    margin-left: 19%;
+    margin-top: -25%;
+}
+#itemSelecionado{
+    color: black;
+    margin-left: 60px;
+}

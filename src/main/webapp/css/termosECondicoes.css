@@ -1,0 +1,29 @@
+#texto{
+    background-color: #2646a79e!important;
+   /*height: 500px;*/
+    opacity: 0.8;
+    border-radius: 25px;
+    text-align: center;
+    color: white;
+    margin-bottom: 8%;
+    padding: 20px;
+}
+
+.titulo{
+    text-align: center;
+    color: darkblue;
+    margin-top: 6%;
+    margin-bottom: 20px;
+
+}
+#tudo{
+   background-color: rgba(226, 226, 226, 0.23);
+}
+.img-fluid{
+    border-radius: 5%;
+}
+#termos{
+    
+    margin-bottom: 3%;
+
+}

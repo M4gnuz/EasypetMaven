@@ -1,0 +1,129 @@
+#tudo {
+    background-color: rgba(226, 226, 226, 0.23);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#quemSomos #informacoesFornecedor{
+    margin-bottom: 30px;
+}
+
+#quemSomos h1{
+    text-align: center;
+    margin-bottom: 50px;
+    margin-top: 20px;
+    color: darkblue;
+}
+
+#quemSomos #tituloDescricaodaLoja,
+#quemSomos #avaliacao h6,
+#quemSomos #hAtendimento h6{
+    color: darkblue;
+}
+
+#quemSomos .img-fluid {
+    width: 300px;
+}
+
+/*CSS produtos*/
+
+#quemSomos #produto{
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-bottom: 5px;
+    padding: 5px;
+    background: rgba(226, 226, 226, 0.18);
+}
+
+
+#quemSomos #produto p{
+    width: 70%;
+    float: left; 
+}
+
+#quemSomos #produto label{
+    width: 70%;
+    float: left; 
+    color:#000000b0;
+}
+
+#quemSomos #produto strong{
+    width: 38%;
+    float: left; 
+}
+
+#quemSomos #produto href{
+    width: 50%;
+    float: left; 
+}
+
+#quemSomos #produto img{
+    float: left; 
+    margin-right: 10px;
+}
+
+#quemSomos .ui-widget.ui-widget-content {
+    border: 1px solid darkblue;
+}
+
+#quemSomos .ui-tabs .ui-tabs-nav {
+    background: #cf9bcc;
+    background: #85cc16cc;
+    border: 1px solid black;
+}
+
+#quemSomos  .ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active, .ui-button:active, .ui-button.ui-state-active:hover{
+    background: darkblue;
+    border: 1px solid black;
+}
+#quemSomos #adcCarrinho{
+    color: #39b54a;
+}
+#quemSomos #link{
+    color: #007bff;        
+}
+
+
+/*CSS servicos*/
+
+#quemSomos #servico{
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-bottom: 5px;
+    padding: 5px;
+    background: rgba(226, 226, 226, 0.18);
+    overflow: hidden;
+    height: 180px;
+}
+
+
+#quemSomos #servico label{
+    color:#000000b0;
+}
+
+#quemSomos #servico #valorServico{
+    width: 45%;
+    float: left; 
+}
+
+#quemSomos #servico #linkHorario{
+    width: 50%;
+    float: left; 
+    color: #39b54a;
+}
+
+.apagada {
+  background-image: url('http://www.biblecast.net.br/resources/estrela-prata.png');
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+}
+
+.destaque {
+  background-image: url(../ResourcesIm/estrela.png);
+  width: 32px;
+  height: 32px;
+  cursor: pointer;
+}
